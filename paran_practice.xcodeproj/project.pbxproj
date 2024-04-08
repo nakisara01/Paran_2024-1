@@ -12,6 +12,7 @@
 		8C905AB32BC39E7F003AA5E2 /* Array.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Array.swift; sourceTree = "<group>"; };
 		8C905AB72BC39F9C003AA5E2 /* functions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = functions.swift; sourceTree = "<group>"; };
 		8C905AB82BC39FAA003AA5E2 /* dictionaries.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = dictionaries.swift; sourceTree = "<group>"; };
+		8C905ABA2BC3A055003AA5E2 /* mvc-ifyme-capn */ = {isa = PBXFileReference; lastKnownFileType = folder; name = "mvc-ifyme-capn"; path = "../../../../../../../Downloads/mvc-ifyme-capn"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXGroup section */
@@ -34,9 +35,18 @@
 			path = week3;
 			sourceTree = "<group>";
 		};
+		8C905AB92BC3A03F003AA5E2 /* week4 */ = {
+			isa = PBXGroup;
+			children = (
+				8C905ABA2BC3A055003AA5E2 /* mvc-ifyme-capn */,
+			);
+			path = week4;
+			sourceTree = "<group>";
+		};
 		8CB22ECD2BA6D23C0020324E = {
 			isa = PBXGroup;
 			children = (
+				8C905AB92BC3A03F003AA5E2 /* week4 */,
 				8C905AB52BC39F74003AA5E2 /* week3 */,
 				8C905AB42BC39F68003AA5E2 /* week2 */,
 			);
