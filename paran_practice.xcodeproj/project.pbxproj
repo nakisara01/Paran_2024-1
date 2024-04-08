@@ -6,10 +6,23 @@
 	objectVersion = 56;
 	objects = {
 
+/* Begin PBXFileReference section */
+		8C905AB12BC39DAC003AA5E2 /* Boolean.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Boolean.swift; sourceTree = "<group>"; };
+		8C905AB22BC39E69003AA5E2 /* loop.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = loop.swift; sourceTree = "<group>"; };
+		8C905AB32BC39E7F003AA5E2 /* Array.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Array.swift; sourceTree = "<group>"; };
+		8CB22F122BA7238E0020324E /* 09-dictionaries.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; name = "09-dictionaries.playground"; path = "../../../../../../Downloads/09-dictionaries.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		8CB22F132BB0759B0020324E /* functions.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; name = functions.playground; path = ../../../../../../Downloads/functions.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+/* End PBXFileReference section */
+
 /* Begin PBXGroup section */
 		8CB22ECD2BA6D23C0020324E = {
 			isa = PBXGroup;
 			children = (
+				8C905AB32BC39E7F003AA5E2 /* Array.swift */,
+				8C905AB22BC39E69003AA5E2 /* loop.swift */,
+				8C905AB12BC39DAC003AA5E2 /* Boolean.swift */,
+				8CB22F132BB0759B0020324E /* functions.playground */,
+				8CB22F122BA7238E0020324E /* 09-dictionaries.playground */,
 			);
 			sourceTree = "<group>";
 		};
